@@ -14,7 +14,7 @@ const Titlebar = () => {
                 <p>Terminal</p>
                 <p>Help</p>
             </div>
-            <p className={styles.title}>Myth - Visual Studio Code - Insiders</p>
+            <p className={styles.title}>BlazeOP69 - Visual Studio Code - Insiders</p>
             <div className={styles.windowButtons}>
                 <span className={styles.minimize}></span>
                 <span className={styles.maximize}></span>
