@@ -2,7 +2,7 @@ const AboutPage = () => {
     return (
         <>
             <h3>About Me</h3>
-            <p>I am a full stack developer {"&"} a student, active since mid August of 2018.</p>
+            <p>I am a python developer {"&"} a student, active since mid April of 2021.</p>
         </>
     );
 };

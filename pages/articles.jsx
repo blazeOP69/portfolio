@@ -6,7 +6,7 @@ const ArticlesPage = ({ articles }) => {
         <>
             <h3>
                 Recent Posts from{" "}
-                <a href="https://blogs.dhunganakunjan.com.np" target="_blank" rel="noopener" className={styles.underline}>
+                <a href="https://blazeop69.hashnode.dev" target="_blank" rel="noopener" className={styles.underline}>
                     Andromeda
                 </a>
             </h3>
@@ -24,7 +24,7 @@ export async function getStaticProps() {
         body: JSON.stringify({
             query: `
                 query GetUserArticles($page: Int!) {
-                    user(username: "DevAndromeda") {
+                    user(username: "blazeOP69") {
                         publication {
                             posts(page: $page) {
                                 title
