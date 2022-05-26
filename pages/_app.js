@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
 
     return (
         <Layout>
-            <Head title={`Andromeda | ${pageProps.title}`} />
+            <Head title={`Myth | ${pageProps.title}`} />
             <Component {...pageProps} />
         </Layout>
     );

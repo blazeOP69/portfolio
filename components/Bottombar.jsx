@@ -11,7 +11,7 @@ const Bottombar = () => {
     return (
         <footer className={styles.bottomBar}>
             <div className={styles.container}>
-                <a href="https://github.com/DevAndromeda/portfolio" target="_blank" rel="noreferrer noopener" className={styles.section}>
+                <a href="https://github.com/blazeOP69/portfolio" target="_blank" rel="noreferrer noopener" className={styles.section}>
                     <SourceControlIcon className={styles.icon} />
                     <p>main</p>
                 </a>
@@ -21,9 +21,9 @@ const Bottombar = () => {
                     <WarningIcon className={styles.icon} />
                     <p>0</p>
                 </div>
-                <a href="https://github.com/DevAndromeda" target="_blank" rel="noreferrer noopener" className={styles.section}>
+                <a href="https://github.com/blazeOP69" target="_blank" rel="noreferrer noopener" className={styles.section}>
                     <AccountIcon className={styles.icon} />
-                    <p>Andromeda</p>
+                    <p>blazeOP69</p>
                 </a>
             </div>
             <div className={styles.container}>

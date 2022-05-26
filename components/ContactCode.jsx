@@ -3,33 +3,18 @@ import styles from "../styles/ContactCode.module.css";
 const contactItems = [
     {
         social: "website",
-        link: "dhunganakunjan.com.np",
-        href: "https://dhunganakunjan.com.np"
+        link: "abishmagar.vercel.app",
+        href: "https://abishmagar.vercel.app"
     },
     {
         social: "email",
-        link: "contact@dhunganakunjan.com.np",
-        href: "mailto:contact@dhunganakunjan.com.np"
+        link: "magarabish456@gmail.com",
+        href: "mailto:magarabish456@gmail.com"
     },
     {
         social: "github",
-        link: "DevAndromeda",
-        href: "https://github.com/DevAndromeda"
-    },
-    {
-        social: "linkedin",
-        link: "dhungana-k",
-        href: "https://www.linkedin.com/in/dhungana-k"
-    },
-    {
-        social: "twitter",
-        link: "DevAndromeda7",
-        href: "https://www.twitter.com/DevAndromeda7"
-    },
-    {
-        social: "discord",
-        link: "Andromeda#1000",
-        href: "https://discord.com/users/916316955772862475"
+        link: "blazeOP69",
+        href: "https://github.com/blazeOP69"
     }
 ];
 
