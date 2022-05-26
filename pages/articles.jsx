@@ -7,7 +7,7 @@ const ArticlesPage = ({ articles }) => {
             <h3>
                 Recent Posts from{" "}
                 <a href="https://blazeop69.hashnode.dev" target="_blank" rel="noopener" className={styles.underline}>
-                    Andromeda
+                    BlazeOP69
                 </a>
             </h3>
             <div className={styles.container}>{articles.length ? articles.map((article) => <ArticleCard key={article.id} article={article} />) : <p>No articles found!</p>}</div>
