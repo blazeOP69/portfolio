@@ -19,5 +19,5 @@ const CustomHead = ({ title }) => {
 export default CustomHead;
 
 CustomHead.defaultProps = {
-    title: "BlazeOP69"
+    title: "Abish"
 };
